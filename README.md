@@ -7,7 +7,7 @@ If you find this site helpful, please consider supporting my ongoing efforts thr
 <a href='https://ko-fi.com/b4ckd00r' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
-Active Directory & Enterprise Security, Methods to Secure Active Directory, Attack Methods & Effective Defenses, PowerShell, Tech Notes, & Geek Trivia…     <br><br>
+Active Directory & Enterprise Security, Methods to Secure Active Directory, Attack Methods & Effective Defenses, PowerShell, Tech Notes, & Geek Trivia…     <br>
 https://adsecurity.org/?page_id=1821
 
 
