@@ -8,8 +8,8 @@ If you find this site helpful, please consider supporting my ongoing efforts thr
 
 
 Active Directory & Enterprise Security, Methods to Secure Active Directory, Attack Methods & Effective Defenses, PowerShell, Tech Notes, & Geek Trivia…     <br>
-https://adsecurity.org/?page_id=1821
-
+https://adsecurity.org/?page_id=1821                 <br>
+https://www.trimarcsecurity.com/microsoftcloud-security-assessment
 
 
           Penetration testing report key findings
