@@ -1,0 +1,3 @@
+Web Application Penetration testing 
+
+https://www.sqlinjection.net/time-based/#MySQL%20Time-Based%20Attack
