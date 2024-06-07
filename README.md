@@ -9,9 +9,9 @@ If you find this site helpful, please consider supporting my ongoing efforts thr
 
 Active Directory & Enterprise Security, Methods to Secure Active Directory, Attack Methods & Effective Defenses, PowerShell, Tech Notes, & Geek Trivia…     <br>
 https://adsecurity.org/?page_id=1821                 <br>
-https://www.trimarcsecurity.com/microsoftcloud-security-assessment
-
-
+https://www.trimarcsecurity.com/microsoftcloud-security-assessment           <br>
+https://www.trimarcsecurity.com/virtual-infra-security-assessment     <br>
+https://www.trimarcsecurity.com/ad-security-assessment
           Penetration testing report key findings
 A penetration testing report is a comprehensive document that outlines the results of a simulated cyber attack on an organization’s computer system or network. The report provides a detailed analysis of the vulnerabilities found, the potential impact of an attack, and recommendations for remediation. Here are some key findings that a penetration testing report may include:
 
