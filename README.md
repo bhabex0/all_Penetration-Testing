@@ -7,6 +7,11 @@ If you find this site helpful, please consider supporting my ongoing efforts thr
 <a href='https://ko-fi.com/b4ckd00r' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
+Active Directory & Enterprise Security, Methods to Secure Active Directory, Attack Methods & Effective Defenses, PowerShell, Tech Notes, & Geek Trivia…
+https://adsecurity.org/?page_id=1821
+
+
+
           Penetration testing report key findings
 A penetration testing report is a comprehensive document that outlines the results of a simulated cyber attack on an organization’s computer system or network. The report provides a detailed analysis of the vulnerabilities found, the potential impact of an attack, and recommendations for remediation. Here are some key findings that a penetration testing report may include:
 
